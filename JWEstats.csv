@@ -1,0 +1,107 @@
+SPECIES,DIET,CLASS,SIZE,CANONICITY,SKINS,GENES,TIER,ERA,CONTINENT,DISCOVERY,TIER2,CLASS2,TREE,DLC
+Acrocanthosaurus,meat,carnosaur,large,JPOG,,7,4,early cretaceous,north america,1950,5,carnosaur,c,
+Alamosaurus,plant,sauropod,large,noncanon;DLC,,6,5,late cretaceous,north america,1922,6,macronarian,h1,DinoPack3
+Albertosaurus,meat,coelurosaur,medium,JPOG;games,,6,3,late cretaceous,north america,1905,4,tyrannosaurid,c,
+Allosaurus,meat,carnosaur,medium,masrani;JPOG;kenner;biosyn;CC,2022,7,4,late jurassic,north america,1877,4,carnosaur,c,
+Amargasaurus,plant,sauropod,medium,kenner,,4,0,early cretaceous,south america,1991,0,diplodocid,h1,
+Ankylosaurus,plant,ankylosaurid,medium,hammond;JPOG;biosyn;CC,2001;CC1,8,5,late cretaceous,north america,1908,6,ankylosaurid,h3,
+Apatosaurus,plant,sauropod,large,hammond;book;biosyn;topps,,5,1,late jurassic,north america,1877,1,diplodocid,h1,
+Archaeornithomimus,plant,ornithomimid,small,noncanon,,7,4,late cretaceous,asia,1972,5,ornithomimid,h2,
+Attenborosaurus,fish,pliosaurid,medium,noncanon;DLC,,7,5,early jurassic,europe,1993,5,pliosaurid,m,Deluxe
+Australovenator,meat,coelurosaur,small,noncanon;DLC,,5,3,late cretaceous,australia,2009,4,coelurosaur,c,DinoPack3
+Barbaridactylus,fish,pterosaur,medium,noncanon;DLC,,5,5,late cretaceous,africa,2018,5,pteranodontid,f,DinoPack3
+Baryonyx,fish,spinosaurid,medium,hammond;biosyn;CC,CC1;CC2;CC3,5,2,early cretaceous,europe,1986,2,spinosaurid,c,
+Brachiosaurus,plant,sauropod,large,hammond;JPOG;CC;topps,1993;2001,6,3,late jurassic,north america,1903,4,macronarian,h1,
+Camarasaurus,plant,sauropod,large,JPOG,,5,2,late jurassic,north america,1877,2,macronarian,h1,
+Carcharodontosaurus,meat,carnosaur,large,JPOG,,7,4,late cretaceous,africa,1931,5,carnosaur,c,
+Carnotaurus,meat,ceratosaurid,medium,masrani;kenner;book;biosyn;CC,CC1;2022,5,1,late cretaceous,south america,1985,1,ceratosaurid,c,
+Cearadactylus,fish,pterosaur,medium,book;topps,,5,3,early cretaceous,south america,1985,2,pteranodontid,f,
+Ceratosaurus,meat,ceratosaurid,medium,hammond;JPOG;CC,,4,0,late jurassic,north america,1884,0,ceratosaurid,c,
+Chasmosaurus,plant,ceratopsian,small,kenner,,5,2,late cretaceous,north america,1914,2,chasmosaurine,h3,
+Chungkingosaurus,plant,stegosaurid,small,noncanon,,5,2,late jurassic,asia,1983,2,huayangosaurid,h3,
+Coelophysis,meat,primitive,small,kenner,,5,1,triassic,north america,1889,1,primitive,c,
+Compsognathus,meat,coelurosaur,small,hammond;biosyn;CC;topps,,6,3,late jurassic,europe,1859,3,coelurosaur,c,
+Corythosaurus,plant,hadrosaur,medium,hammond;JPOG;topps,,5,1,late cretaceous,north america,1914,1,lambeosaurine,h1,
+Crichtonsaurus,plant,ankylosaurid,small,noncanon,,7,4,late cretaceous,asia,2002,5,ankylosaurid,h3,
+Cryolophosaurus,meat,primitive,medium,noncanon,,6,3,early jurassic,antartica,1994,3,primitive,c,
+Deinonychus,meat,raptor,small,kenner;DPG;holoscape,,5,1,early cretaceous,north america,1969,0,dromaeosaurid,c,
+Dilophosaurus,meat,primitive,small,hammond;JPOG;biosyn;CC;book;topps,2022,4,0,early jurassic,north america,1970,0,primitive,c,
+Dimetrodon,meat,primitive,small,kenner;biosyn;DLC,2022,7,1,triassic,north america,1878,1,primitive,c,DominionPack1
+Dimorphodon,fish,pterosaur,small,masrani;biosyn;CC,2022,5,3,early jurassic,europe,1859,2,macronychoptera,f,
+Diplodocus,plant,sauropod,large,lockwood,,6,3,late jurassic,north america,1878,4,diplodocid,h1,
+Dracorex,plant,pachy,small,lockwood,,4,1,late cretaceous,north america,2006,0,pachy,h2,
+Dreadnoughtus,plant,sauropod,large,masrani;biosyn;variant,2022,8,5,late cretaceous,south america,2014,6,macronarian,h1,
+Dryosaurus,plant,ornithopod,small,JPOG;book,,5,2,late jurassic,north america,1894,1,ornithopod,h2,
+Dsungaripterus,fish,pterosaur,small,noncanon;DLC,,6,3,early cretaceous,asia,1964,3,tapejarid,f,DinoPack1
+Edmontosaurus,plant,hadrosaur,medium,hammond;JPOG;topps,,5,3,late cretaceous,north america,1917,2,saurolophine,h1,
+Elasmosaurus,fish,plesiosaurid,medium,noncanon,,7,4,late cretaceous,north america,1868,3,plesiosaurid,m,
+Euoplocephalus,plant,ankylosaurid,small,book;DPG,,6,3,late cretaceous,north america,1910,3,ankylosaurid,h3,
+Gallimimus,plant,ornithomimid,small,hammond;JPOG;biosyn;CC;book;topps,1993,5,1,late cretaceous,asia,1972,1,ornithomimid,h2,
+Geosternbergia,fish,pterosaur,medium,noncanon;DLC,,6,5,late cretaceous,north america,1971,4,pteranodontid,f,Deluxe
+Giganotosaurus,meat,carnosaur,large,biosyn;variant,2022,7,4,late cretaceous,south america,1995,4,carnosaur,c,
+Gigantspinosaurus,plant,stegosaurid,small,noncanon,,6,3,late jurassic,asia,1992,3,huayangosaurid,h3,
+Herrerasaurus,meat,primitive,small,hammond,,5,2,triassic,south america,1963,2,primitive,c,
+Homalocephale,plant,pachy,small,JPOG,,6,3,late cretaceous,asia,1974,3,pachy,h2,
+Huayangosaurus,plant,stegosaurid,small,noncanon;DLC,,6,2,early jurassic,asia,1982,2,huayangosaurid,h3,Deluxe
+Ichthyosaurus,fish,ichthyosaurid,small,noncanon,,6,3,triassic,europe,1821,2,ichthyosaurid,m,
+Iguanodon,plant,ornithopod,medium,kenner;biosyn;variant,,8,4,early cretaceous,europe,1825,5,ornithopod,h1,
+Indominus Rex,meat,hybrid,large,masrani;CC,,8,5,modern,south america,2012,8,hybrid,c,
+Indoraptor,meat,hybrid,medium,masrani,,8,5,modern,south america,2016,8,hybrid,c,
+Kentrosaurus,plant,stegosaurid,small,JPOG;CC;variant,CC1,4,1,late jurassic,africa,1915,0,stegosaurid,h3,
+Kronosaurus,fish,pliosaurid,large,noncanon;DLC,,8,4,early cretaceous,australia,1924,4,pliosaurid,m,DinoPack1
+Liopleurodon,fish,pliosaurid,medium,noncanon,,6,4,late jurassic,europe,1873,3,pliosaurid,m,
+Maaradactylus,fish,pterosaur,medium,noncanon,,6,4,early cretaceous,south america,2014,3,pteranodontid,f,
+Maiasaura,plant,hadrosaur,medium,hammond;book,,6,4,late cretaceous,north america,1979,4,saurolophine,h1,
+Majungasaurus,meat,ceratosaurid,medium,noncanon,,5,2,late cretaceous,africa,1955,2,ceratosaurid,c,
+Mamenchisaurus,plant,sauropod,large,hammond,,7,4,late jurassic,asia,1954,5,macronarian,h1,
+Megalosaurus,meat,carnosaur,medium,noncanon;DLC,,7,3,early jurassic,europe,1824,4,carnosaur,c,Deluxe
+Metriacanthosaurus,meat,carnosaur,medium,hammond,,6,3,late jurassic,europe,1923,3,carnosaur,c,
+Minmi,plant,ankylosaurid,small,noncanon;DLC,,6,2,early cretaceous,australia,1980,3,ankylosaurid,h3,DinoPack1
+Monolophosaurus,meat,carnosaur,small,masrani;CC;topps;DLC,CC1,6,3,early jurassic,asia,1993,4,carnosaur,c,DinoPack2
+Mosasaurus,fish,mosasaurid,large,masrani;CC,,8,5,late cretaceous,europe,1822,6,mosasaurid,m,
+Muttaburrasaurus,plant,ornithopod,medium,noncanon,,4,1,early cretaceous,australia,1981,0,ornithopod,h1,
+Nasutoceratops,plant,ceratopsian,medium,masrani;biosyn,,4,0,late cretaceous,north america,2013,0,centrosaurine,h3,
+Nigersaurus,plant,sauropod,medium,noncanon,,6,2,early cretaceous,africa,1999,3,diplodocid,h1,
+Nodosaurus,plant,ankylosaurid,small,noncanon,,4,1,late cretaceous,north america,1889,0,nodosaurid,h3,
+Olorotitan,plant,hadrosaur,medium,noncanon,,6,2,late cretaceous,asia,2003,3,lambeosaurine,h1,
+Ouranosaurus,plant,ornithopod,medium,masrani;JPOG;CC;topps;variant,CC1,7,3,early cretaceous,africa,1976,4,ornithopod,h1,
+Pachycephalosaurus,plant,pachy,small,hammond;JPOG;book;topps,,5,2,late cretaceous,north america,1943,2,pachy,h2,
+Pachyrhinosaurus,plant,ceratopsian,small,masrani;DLC,,7,3,late cretaceous,north america,1950,3,centrosaurine,h3,Deluxe
+Parasaurolophus,plant,hadrosaur,medium,hammond;JPOG;biosyn;CC;book;topps,1997;2001;CC1;CC2;2022A;2022B;2022C,5,1,late cretaceous,north america,1922,1,lambeosaurine,h1,
+Pentaceratops,plant,ceratopsian,medium,noncanon,,6,4,late cretaceous,north america,1923,5,chasmosaurine,h3,
+Plesiosaurus,fish,plesiosaurid,small,kenner;holoscape,,6,3,early jurassic,europe,1821,2,plesiosaurid,m,
+Polacanthus,plant,ankylosaurid,small,noncanon,,5,2,early cretaceous,europe,1865,2,nodosaurid,h3,
+Proceratosaurus,meat,coelurosaur,small,hammond,,6,3,early jurassic,europe,1926,3,tyrannosaurid,c,
+Pteranodon,fish,pterosaur,medium,hammond;biosyn;CC;topps,2001,7,4,late cretaceous,north america,1876,4,pteranodontid,f,
+Pyroraptor,meat,raptor,small,biosyn;DLC,2022,6,3,late cretaceous,europe,2000,4,dromaeosaurid,c,DominionPack1
+Qianzhousaurus,meat,coelurosaur,medium,noncanon,,6,3,late cretaceous,asia,2014,3,tyrannosaurid,c,
+Quetzalcoatlus,fish,pterosaur,large,biosyn;kenner;DLC,2022,6,5,late cretaceous,north america,1975,6,tapejarid,f,DominionPack1
+Sauropelta,plant,ankylosaurid,small,noncanon,,6,3,early cretaceous,north america,1970,3,nodosaurid,h3,
+Scorpios Rex,meat,hybrid,medium,masrani;CC;DLC,CC1;CC2,8,5,modern,south america,2009,8,hybrid,c,DinoPack2
+Sinoceratops,plant,ceratopsian,medium,masrani;biosyn;CC,,7,5,late cretaceous,asia,2010,6,centrosaurine,h3,
+Spinosaurus,fish,spinosaurid,large,hammond;JPOG;CC,,8,5,late cretaceous,africa,1915,6,spinosaurid,c,
+Stegosaurus,plant,stegosaurid,medium,hammond;JPOG;biosyn;CC;book;topps,1997,7,4,late jurassic,north america,1877,5,stegosaurid,h3,
+Struthiomimus,plant,ornithomimid,small,noncanon,,4,0,late cretaceous,north america,1917,0,ornithomimid,h2,
+Stygimoloch,plant,pachy,small,masrani;biosyn,,5,3,late cretaceous,north america,1983,4,pachy,h2,
+Styracosaurus,plant,ceratopsian,small,JPOG;book;DPG;topps,,5,2,late cretaceous,north america,1913,2,centrosaurine,h3,
+Styxosaurus,fish,plesiosaurid,medium,noncanon;DLC,,7,5,late cretaceous,north america,1943,5,plesiosaurid,m,DinoPack3
+Suchomimus,fish,spinosaurid,medium,hammond,,7,4,early cretaceous,africa,1998,5,spinosaurid,c,
+Tapejara,fish,pterosaur,small,noncanon,,6,4,early cretaceous,south america,1989,4,tapejarid,f,
+Therizinosaurus,plant,ornithomimid,large,biosyn;DLC,2022,5,5,late cretaceous,asia,1954,6,coelurosaur,h3,DominionPack1
+Torosaurus,plant,ceratopsian,medium,JPOG,,5,2,late cretaceous,north america,1891,1,chasmosaurine,h3,
+Triceratops,plant,ceratopsian,medium,hammond;JPOG;biosyn;CC;book;topps,1993,6,4,late cretaceous,north america,1889,4,chasmosaurine,h3,
+Troodon,meat,raptor,small,games,,5,2,late cretaceous,north america,1856,2,coelurosaur,c,
+Tropeognathus,fish,pterosaur,medium,noncanon,,7,5,early cretaceous,south america,1987,5,pteranodontid,f,
+Tsintaosaurus,plant,hadrosaur,medium,noncanon,,7,3,late cretaceous,asia,1958,5,lambeosaurine,h3,
+Tylosaurus,fish,mosasaurid,large,games,,7,4,late cretaceous,north america,1872,4,mosasaurid,m,
+TyrannosaurusRex,meat,coelurosaur,large,hammond;JPOG;biosyn;CC;book;topps,1993;1997A;1997B;2001;CC1;2022;65MYA,8,5,late cretaceous,north america,1905,6,tyrannosaurid,c,
+Velociraptor,meat,raptor,small,hammond;JPOG;CC;book;topps,Blue;Charlie;Delta;Echo;1993;1997A;1997B;2001A;2001B,6,4,late cretaceous,asia,1924,5,dromaeosaurid,c,
+Wuerhosaurus,plant,stegosaurid,medium,noncanon;DLC,,5,1,early cretaceous,asia,1973,1,stegosaurid,h3,DinoPack1
+Atrociraptor,meat,raptor,small,biosyn;DLC,Tiger;Panthera;Red;Ghost,6,4,late cretaceous,north america,2004,5,dromaeosaurid,c,DominionPack2
+Lystrosaurus,plant,primitive,small,biosyn;DLC,2022,5,1,permian,africa,1870,1,primitive,h2,DominionPack2
+MorosIntrepidus,meat,coelurosaur,small,biosyn;DLC,2022,5,2,late cretaceous,north america,2019,2,tyrannosaurid,c,DominionPack2
+Oviraptor,omni,ornithomimid,small,biosyn;DLC,2022,4,3,late cretaceous,asia,1924,3,coelurosaur,c,DominionPack2
+Sinosauropteryx,meat,coelurosaur,small,noncanon;DLC,,4,1,early cretaceous,asia,1996,1,coelurosaur,c,DinoPack4
+Yutyrannus,meat,coelurosaur,medium,noncanon;DLC,,6,3,early cretaceous,asia,2012,4,tyrannosaurid,c,DinoPack4
+Deinocheirus,omni,ornithomimid,large,noncanon;DLC,,5,5,late cretaceous,asia,1970,6,ornithomimid,h1,DinoPack4
+Jeholopterus,meat,pterosaur,small,noncanon;DLC,,5,3,late jurassic,asia,2002,3,macronychoptera,f,DinoPack4

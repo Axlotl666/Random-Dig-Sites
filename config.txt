@@ -1,0 +1,15 @@
+#config file is case sensitive. Set these variables to control the randomization.
+
+#BANLIST is a comma separated list of words that are ban species based on JWEstats.csv entries
+#Can be a species name or any other entry in the .csv file, IE hybrid, meat, noncanon
+#Note: spaces between entries will cause them to be ignored.
+
+BANLIST: 
+
+#FORCED is a counterpart of BANLIST, its a list of things that override the banlist.
+
+FORCED: 
+
+#Set BLANK to True to include blank pattern in the skin randomization. False removes blank.
+
+BLANK: False
